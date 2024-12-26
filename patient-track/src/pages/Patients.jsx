@@ -90,9 +90,6 @@ const Patients = () => {
                     Address: <span>{element.address}</span>
                   </p>
                 </div>
-                <FaEdit onClick={handleEdit()}/>
-                <MdDelete onClick={handleDelete()}/>
-
               </div>
             );
           })

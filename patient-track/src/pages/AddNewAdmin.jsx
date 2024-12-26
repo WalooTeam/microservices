@@ -4,6 +4,7 @@ import { Navigate, useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 import axios from "axios";
 import Sidebar from "../components/SideBar/Sidebar";
+import logo from "../assets/patient-tracker-tool-logo.png"
 
 const AddNewAdmin = () => {
   //const { isAuthenticated, setIsAuthenticated } = useContext(Context);
@@ -61,8 +62,8 @@ const AddNewAdmin = () => {
               {/* Sidebar Component */}
       <Sidebar isSidebarOpen={isSidebarOpen} toggleSidebar={toggleSidebar} />
       <section className="container form-component add-admin-form">
-      <img src="/logo.png" alt="logo" className="logo"/>
-        <h1 className="form-title">ADD NEW ADMIN</h1>
+      <img src={logo} alt="logo" className="logo"/>
+        <h1 className="form-title">REGISTER NEW ADMIN</h1>
         <form onSubmit={handleAddNewAdmin}>
           <div>
             <input

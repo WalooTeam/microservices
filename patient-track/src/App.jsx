@@ -7,6 +7,7 @@ import Patients from "./pages/Patients.jsx";
 import AddNewDoctor from "./pages/AddNewDoctor.jsx";
 import AddNewAdmin from "./pages/AddNewAdmin.jsx"
 import AddNewPatient from "./pages/AddNewPatient.jsx"
+import Alertes from "./pages/Alertes.jsx";
 import "./App.css"
 /*import SignUp from "./Pages/SignUp/SignUp";
 import LensDB from "./Pages/LensDB/LensDB";
@@ -33,6 +34,8 @@ function App() {
         <Route path="/doctor/new" element={<AddNewDoctor />} />
         <Route path="/admin/new" element={<AddNewAdmin />} />
         <Route path="/patient/new" element={<AddNewPatient />} />
+        <Route path="/alertes" element={<Alertes />} />
+
 
 
 

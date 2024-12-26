@@ -4,6 +4,7 @@ import { toast } from "react-toastify";
 //import { Context } from "../main";
 import axios from "axios";
 import Sidebar from "../components/SideBar/Sidebar";
+import logo from "../assets/patient-tracker-tool-logo.png"
 const AddNewDoctor = () => {
 
     const [isSidebarOpen, setIsSidebarOpen] = useState(true);
@@ -21,6 +22,7 @@ const AddNewDoctor = () => {
   const [doctorDepartment, setDoctorDepartment] = useState("");
   const [docAvatar, setDocAvatar] = useState("");
   const [docAvatarPreview, setDocAvatarPreview] = useState("");
+
 
   const navigateTo = useNavigate();
 
@@ -90,8 +92,8 @@ const AddNewDoctor = () => {
               {/* Sidebar Component */}
       <Sidebar isSidebarOpen={isSidebarOpen} toggleSidebar={toggleSidebar} />
       <section className="container add-doctor-form">
-        <img src="/logo.png" alt="logo" className="logo"/>
-        <h1 className="form-title">REGISTER A NEW DOCTOR</h1>
+        <img src={logo} alt="logo" className="logo"/>
+        <h1 className="form-title">REGISTER A NEW CAREGIVER</h1>
         <form onSubmit={handleAddNewDoctor}>
           <div className="first-wrapper">
             <div>

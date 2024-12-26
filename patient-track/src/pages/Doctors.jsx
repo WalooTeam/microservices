@@ -3,6 +3,8 @@ import React, { useState, useEffect } from "react";
 import { toast } from "react-toastify";
 import Sidebar from "../components/SideBar/Sidebar"; // Adjust the import path as needed
 import doc1 from "../assets/doc1.jpg";
+import { FaEdit } from "react-icons/fa";
+
 
 const Doctors = () => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
