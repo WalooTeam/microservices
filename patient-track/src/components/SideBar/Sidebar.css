@@ -1,0 +1,7 @@
+/* src/components/Sidebar.css */
+  .sidebar-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Adds space between the buttons */
+  }
+  
