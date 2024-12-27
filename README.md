@@ -20,7 +20,7 @@ This platform enables real-time monitoring of patients using IoT sensors to trac
 
 ## Software Architecture
 
-![Microservices Architecture](ARCHITECTURE%20MICROSERVICES.png)
+![Microservices Architecture](arcitechture.png)
 
 ### Key Components
 
