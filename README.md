@@ -95,8 +95,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contributors
 
-- **Team Member Name**: [GitHub Profile](https://github.com/oualidch11)
-- **Team Member Name**: [GitHub Profile](https://github.com/MounirEnnakhai)
-- **Team Member Name**: [GitHub Profile](https://github.com/Iliasrad0)
-- **Team Member Name**: [GitHub Profile](https://github.com/Fadwa2mi)
-- **Team Member Name**: [GitHub Profile](https://github.com/Z-Aya)
+- **CHOUKRI Oualid**: [GitHub Profile](https://github.com/oualidch11)
+- **ENNAKHAI Mounir**: [GitHub Profile](https://github.com/MounirEnnakhai)
+- **RADOUANE Ilias**: [GitHub Profile](https://github.com/Iliasrad0)
+- **TOUMI Fadwa**: [GitHub Profile](https://github.com/Fadwa2mi)
+- **ZBAIR Aya**: [GitHub Profile](https://github.com/Z-Aya)
