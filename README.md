@@ -68,5 +68,5 @@ This platform enables real-time monitoring of patients using IoT sensors to trac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/WalooTeam/microservices/edit/main/
-   cd iot-patient-monitoring
+   git clone https://github.com/WalooTeam/microservices.git
+   cd microservices
