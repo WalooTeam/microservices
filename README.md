@@ -74,8 +74,8 @@ This platform enables real-time monitoring of patients using IoT sensors to trac
 
 2. **Navigate to the React project directory**:
    
-   ```bash
-   cd patient-track
+         ```bash
+         cd patient-track
    
 3.**Install dependencies:**
 
@@ -128,9 +128,9 @@ The app will launch on the connected device or emulator.
 
 
 ## Clone the repository
-   ```bash
-   git clone https://github.com/WalooTeam/microservices.git
-   cd microservices
+      ```bash
+      git clone https://github.com/WalooTeam/microservices.git
+      cd microservices
 
 ## Usage
 
