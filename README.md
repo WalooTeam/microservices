@@ -55,12 +55,10 @@ This platform enables real-time monitoring of patients using IoT sensors to trac
 
 - **Frontend**:
   - React for web applications.
+  - Flutter for cross-platform mobile applications.
 
 - **Database**:
   - MySQL for structured data.
-
-- **Containerization**:
-  - Docker for service deployment.
 
 ---
 
@@ -68,10 +66,7 @@ This platform enables real-time monitoring of patients using IoT sensors to trac
 
 ### Prerequisites
 
-1. Install Docker and Docker Compose:
-   - [Docker Installation Guide](https://docs.docker.com/get-docker/)
-
-2. Clone the repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/iot-patient-monitoring.git
+   git clone https://github.com/WalooTeam/microservices/edit/main/
    cd iot-patient-monitoring
