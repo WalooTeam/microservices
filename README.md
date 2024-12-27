@@ -12,7 +12,6 @@ This platform enables real-time monitoring of patients using IoT sensors to trac
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Video Demonstration](#video-demonstration)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
@@ -70,3 +69,32 @@ This platform enables real-time monitoring of patients using IoT sensors to trac
    ```bash
    git clone https://github.com/WalooTeam/microservices.git
    cd microservices
+
+## Usage
+
+### Authentication:
+- **Admin**:
+  - Email: `admin@example.com`
+  - Password: `admin`
+- **Caregiver**:
+  - Email: `caregiver@example.com`
+  - Password: `caregiver`
+
+### Alerts:
+- Real-time notifications for critical patient conditions.
+- Alert details include patient name, status, and location.
+
+---
+
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request for review.
+
+---
+
+## Contributors
+
+- **Your Name**: [GitHub Profile](https://github.com/your-profile)
+- **Team Member Name**: [GitHub Profile](https://github.com/team-member-profile)
+
