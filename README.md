@@ -2,7 +2,7 @@
 
 ## Description
 
-This platform enables real-time monitoring of patients using IoT sensors to track vital signs such as movement, heart rate, and temperature. Data is processed through a robust microservices architecture to deliver critical alerts to caregivers, ensuring timely and effective healthcare management.
+This platform enables real-time monitoring of patients using IoT sensors to track vital signs. Data is processed through a robust microservices architecture to deliver critical alerts to caregivers, ensuring timely and effective healthcare management.
 
 ---
 
@@ -65,7 +65,69 @@ This platform enables real-time monitoring of patients using IoT sensors to trac
 
 ### Prerequisites
 
-1. Clone the repository:
+---
+
+### React Setup
+
+1. **Install Node.js**:
+   - Download and install Node.js from [https://nodejs.org/](https://nodejs.org/).
+
+2. **Navigate to the React project directory**:
+   
+   ```bash
+   cd patient-track
+   
+3.**Install dependencies:**
+
+      ```bash
+      npm install
+
+
+4.**Start the React app**:
+
+     ```bash
+      npm start
+  
+      
+5.**Access the app**:
+
+Open http://localhost:3000 in your browser.
+
+---
+
+### Flutter Setup
+
+1.**Install Flutter**:
+
+Follow the official installation guide: Flutter Installation.
+
+
+2.**Navigate to the Flutter project directory**:
+
+      ```bash
+      cd flutter-app
+
+
+3.**Install dependencies**: 
+
+      ```bash
+      flutter pub get
+
+4.**Run the Flutter app**:
+
+Connect a device or start an emulator.
+
+Execute:
+
+      ```bash
+      flutter run
+      
+5.**Access the app**:
+
+The app will launch on the connected device or emulator.
+
+
+## Clone the repository
    ```bash
    git clone https://github.com/WalooTeam/microservices.git
    cd microservices
