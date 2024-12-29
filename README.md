@@ -162,10 +162,7 @@ https://github.com/user-attachments/assets/49646f3c-0f48-4c00-8c8c-3d82c82b2c3a
 
 ---
 
-<video controls width="600">
-  <source src="flutter_demo.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture des vidéos.
-</video>
+Téléchargez la vidéo de démonstration [ici](flutter_demo.mp4).
 
 ---
 
