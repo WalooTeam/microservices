@@ -139,7 +139,7 @@ The app will launch on the connected device or emulator.
   - Email: `admin@example.com`
   - Password: `admin`
 - **Caregiver**:
-  - Email: `caregiver@example.com`
+  - Email: `caregiver@gmail.com`
   - Password: `caregiver`
 
 ### Alerts:
