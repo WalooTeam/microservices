@@ -162,6 +162,11 @@ https://github.com/user-attachments/assets/49646f3c-0f48-4c00-8c8c-3d82c82b2c3a
 
 ---
 
+/flutter_demo.mp4
+
+---
+
+
 ## Contributors
 
 - **CHOUKRI Oualid**: [GitHub Profile](https://github.com/oualidch11)
